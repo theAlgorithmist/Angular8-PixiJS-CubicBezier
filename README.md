@@ -1,6 +1,6 @@
 # Angular 8 and Typescript Math Toolkit Cubic Bezier
 
-This is the code distribution for the Medium Article, _Cubic Beziers in Angular 8_ (url).
+This is the code distribution for the Medium Article, [_Cubic Beziers in Angular 8_](https://medium.com/ngconf/cubic-beziers-in-angular-98eea3fb0f9f).
 
 The current cubic Bezier library is illustrated via an interactive Angular 8 demo that uses PIXI 4 for dynamic drawing.  Four-point cubic Bezier interpolation is used for geometric constraints.  Instead of interpolating the Bezier curve at endpoints and using interior control points to influence the curve's shape, the cubic curve is forced to interpolate four points.  The interior control points are computed to enforce the interpolation constraints.
 
